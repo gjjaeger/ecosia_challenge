@@ -1,0 +1,48 @@
+*:focus {
+outline: 0 !important;
+}
+
+.tree-image{
+  width:150px;
+  height: 200px;
+  object-fit: cover;
+  margin: 30px;
+  border-radius: 2px;
+  border: 1px solid #edeeea;
+}
+
+.image-button{
+  border-radius: 0 !important;
+  background-color: Transparent !important;
+  background-repeat:no-repeat !important;
+  width: 200px !important;
+  border: 2px solid black !important;
+  margin: 30px;
+  display: block;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.button-text{
+  font-size: 14px;
+  font-weight: bold !important;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color:black;
+}
+
+.tree-tile{
+  text-align: center;
+  padding: 50px;
+  border: 1px solid #edeeea;
+  margin: 30px;
+}
+
+.tree-name{
+  font-size: 36px;
+}
+
+.tree-species{
+  font-size: 26px;
+  font-style: italic;
+}
